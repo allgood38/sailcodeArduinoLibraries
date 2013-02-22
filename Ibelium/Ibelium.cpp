@@ -1,5 +1,5 @@
-#include "Arduino.h"
 #include "Ibelium.h"
+
 //Each function returns 1 if successful, 0 otherwise.
 
 Ibelium::Ibelium() {

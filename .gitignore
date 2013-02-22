@@ -11,5 +11,8 @@
 *.lai
 *.la
 *.a
+
+# Folders to ignore, third party
 PString
 Test
+Streaming
